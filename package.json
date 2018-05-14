@@ -1,0 +1,18 @@
+{
+  "name": "me.stuartphillips.plugins.acr35",
+  "version": "1.0.0",
+  "description": "Plugin for use with Android + iOS Apache Cordova NFC bootstrap for the ACR35 NFC reader",
+  "cordova": {
+    "id": "me.stuartphillips.plugins.acr35",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ]
+}
